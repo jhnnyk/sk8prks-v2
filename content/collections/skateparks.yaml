@@ -1,5 +1,5 @@
 title: Skateparks
-template: default
+template: skatepark/show
 layout: layout
 taxonomies:
   - city
