@@ -6,8 +6,15 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>sk8prks.com : {{ title }}</title>
     {{ vite src="resources/js/site.js|resources/css/site.css" }}
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Galindo&display=swap"
+      rel="stylesheet"
+    />
   </head>
   <body class="bg-gray-100 font-sans leading-normal text-gray-800">
+    {{ partial:topnav }}
     <div
       class="mx-auto px-2 lg:min-h-screen flex flex-col items-center justify-center"
     >

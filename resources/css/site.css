@@ -3,3 +3,8 @@
 @import "tailwindcss/utilities";
 
 /* This is all you. */
+.logo {
+  font-family: "Galindo", serif;
+  font-weight: 400;
+  font-style: normal;
+}
