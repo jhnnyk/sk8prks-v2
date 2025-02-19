@@ -1,3 +1,9 @@
 <article class="mt-4 bg-white p-8 shadow-xl rounded-xl max-w-xl prose">
   {{ content | widont }}
+
+  <ul>
+    {{ collection:skateparks }}
+    <li><a href="{{ url }}">{{ title }}</a></li>
+    {{ /collection:skateparks }}
+  </ul>
 </article>
