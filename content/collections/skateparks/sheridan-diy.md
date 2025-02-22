@@ -8,23 +8,22 @@ state:
 tags:
   - diy
 updated_by: 34070697-d743-4b04-8cbf-e09309d72c83
-updated_at: 1739996886
+updated_at: 1740265849
 images:
-  - sheridan-diy/img_0920-2.jpg
-  - sheridan-diy/img_0919-2.jpg
-  - sheridan-diy/img_0918-2.jpg
-  - sheridan-diy/img_0917-2.jpg
-  - sheridan-diy/img_0916-2.jpg
-  - sheridan-diy/img_0915-2.jpg
-  - sheridan-diy/img_0914-2.jpg
-  - sheridan-diy/img_0913-2.jpg
-  - sheridan-diy/img_0912-2.jpg
-  - sheridan-diy/img_0911-2.jpg
-  - sheridan-diy/img_0910-2.jpg
-  - sheridan-diy/img_0909-2.jpg
-  - sheridan-diy/img_0908-2.jpg
-  - sheridan-diy/img_0907-2.jpg
-  - sheridan-diy/img_0906-2.jpg
-  - sheridan-diy/img_0905-2.jpg
+  - sheridan-diy/sheridan-diy_05.jpg
+  - sheridan-diy/sheridan-diy_06.jpg
+  - sheridan-diy/sheridan-diy_07.jpg
+  - sheridan-diy/sheridan-diy_08.jpg
+  - sheridan-diy/sheridan-diy_09.jpg
+  - sheridan-diy/sheridan-diy_10.jpg
+  - sheridan-diy/sheridan-diy_11.jpg
+  - sheridan-diy/sheridan-diy_13.jpg
+  - sheridan-diy/sheridan-diy_14.jpg
+  - sheridan-diy/sheridan-diy_15.jpg
+  - sheridan-diy/sheridan-diy_16.jpg
+  - sheridan-diy/sheridan-diy_17.jpg
+  - sheridan-diy/sheridan-diy_18.jpg
+  - sheridan-diy/sheridan-diy_19.jpg
+  - sheridan-diy/sheridan-diy_20-2.jpg
 ---
 Sheridan DIY at Sheridan & 82nd
