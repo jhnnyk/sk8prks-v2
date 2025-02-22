@@ -1,4 +1,8 @@
-<h1>{{ title }}</h1>
-{{ content }} {{ images }}
-<img src="{{ url }}" alt="{{ alt }}" />
-{{ /images }}
+<h1 class="text-2xl">{{ title }}</h1>
+<p class="text-center">{{ address }}</p>
+<div class="m-4">{{ content }}</div>
+<div class="m-2">
+  {{ images }}
+  <img src="{{ url }}" alt="{{ alt }}" />
+  {{ /images }}
+</div>

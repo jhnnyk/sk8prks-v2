@@ -19,19 +19,10 @@ tabs:
               display: Content
               localizable: true
           -
-            handle: author
+            handle: address
             field:
-              type: users
-              display: Author
-              default: current
-              localizable: true
-              max_items: 1
-          -
-            handle: template
-            field:
-              type: template
-              display: Template
-              localizable: true
+              type: textarea
+              display: Address
           -
             handle: images
             field:
@@ -40,6 +31,20 @@ tabs:
               dynamic: slug
               type: assets
               display: Images
+          -
+            handle: template
+            field:
+              type: template
+              display: Template
+              localizable: true
+          -
+            handle: author
+            field:
+              type: users
+              display: Author
+              default: current
+              localizable: true
+              max_items: 1
   sidebar:
     display: Sidebar
     sections:
