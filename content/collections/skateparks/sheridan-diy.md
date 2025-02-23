@@ -8,7 +8,7 @@ state:
 tags:
   - diy
 updated_by: 34070697-d743-4b04-8cbf-e09309d72c83
-updated_at: 1740266835
+updated_at: 1740269032
 images:
   - sheridan-diy/sheridan-diy_05.jpg
   - sheridan-diy/sheridan-diy_06.jpg
@@ -28,5 +28,7 @@ images:
 address: |-
   8190 Sheridan Boulevard<br />
   Arvada, CO 80003
+latitude: 39.845162123124
+longitude: -105.05257833275
 ---
 Sheridan DIY at Sheridan & 82nd

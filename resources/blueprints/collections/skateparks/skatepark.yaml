@@ -24,6 +24,16 @@ tabs:
               type: textarea
               display: Address
           -
+            handle: latitude
+            field:
+              type: float
+              display: Latitude
+          -
+            handle: longitude
+            field:
+              type: float
+              display: Longitude
+          -
             handle: images
             field:
               mode: grid

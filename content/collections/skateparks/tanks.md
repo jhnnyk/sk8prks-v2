@@ -10,7 +10,7 @@ state:
 tags:
   - prefab
 updated_by: 34070697-d743-4b04-8cbf-e09309d72c83
-updated_at: 1740266437
+updated_at: 1740268986
 images:
   - tanks/tanks-skatepark_37.jpg
   - tanks/tanks-skatepark_38.jpg
@@ -27,5 +27,7 @@ images:
 address: |-
   10371 S Broadway<br />
   Highlands Ranch, CO 80126
+latitude: 39.528306
+longitude: -104.988094
 ---
 Tanks melts the snow better than most other skateparks.
