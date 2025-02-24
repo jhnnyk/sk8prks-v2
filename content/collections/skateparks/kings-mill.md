@@ -8,6 +8,7 @@ address: |-
 latitude: 39.859951664917
 longitude: -105.09810208807
 images:
+  - kings-mill/kings-mill-skatepark-satelite-view.jpg
   - kings-mill/kings-mill-skatepark_33.jpg
   - kings-mill/kings-mill-skatepark_32.jpg
   - kings-mill/kings-mill-skatepark_31.jpg
@@ -22,6 +23,8 @@ author: 34070697-d743-4b04-8cbf-e09309d72c83
 state:
   - colorado
 updated_by: 34070697-d743-4b04-8cbf-e09309d72c83
-updated_at: 1740356713
+updated_at: 1740357921
+city:
+  - westminster
 ---
 Small neighborhood skatepark in Westminister, CO
