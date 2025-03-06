@@ -26,6 +26,6 @@ city:
 state:
   - colorado
 updated_by: 34070697-d743-4b04-8cbf-e09309d72c83
-updated_at: 1740519924
+updated_at: 1741291967
 ---
-A small street oriented skatepark in Lakewood, CO.
+A small street oriented skatepark in Lakewood, CO. Some call it "Lakewood Snake Run" but it's not really a snake run.
